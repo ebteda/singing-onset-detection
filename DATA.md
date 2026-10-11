@@ -28,7 +28,7 @@ The original VocalSet has no note labels. The labels (where each note starts and
 **How we used it:** we split it by singer, so no singer is in both training and testing. Used in notebooks 13 to 22.
 
 **Download:** [TONAS on Zenodo](https://zenodo.org/records/1290722)
-Access is on request. You fill in a short form, and it's free for non-commercial use only. More info: [TONAS page at MTG-UPF](https://www.upf.edu/web/mtg/tonas).
+Access is on request. More info: [TONAS page at MTG-UPF](https://www.upf.edu/web/mtg/tonas).
 
 ---
 
