@@ -59,14 +59,6 @@ Access is on request. More info: [TONAS page at MTG-UPF](https://www.upf.edu/web
 
 ---
 
-## Also used once: Erkomaishvili (Georgian chant)
-
-Notebook 05 has a short extra test on this dataset. It is not part of the main results.
-
-**Download:** [Erkomaishvili Dataset at AudioLabs Erlangen](https://www.audiolabs-erlangen.de/resources/MIR/2019-GeorgianMusic-Erkomaishvili)
-
----
-
 ## Saved weights
 
 Notebooks 13 to 22 use the 3 saved models from notebook 12 (`biggerCRNN_ext4_seed0.pt`, `seed1.pt`, `seed2.pt`). They are not in this repository. You can make them again by running notebook 12, or ask the author.
@@ -89,6 +81,5 @@ vocalset-onset/
 │   ├── audio/        the 109 clean files
 │   ├── annot/        labels as start,end,pitch
 │   └── index.csv
-├── erko_upload/                            Erkomaishvili (notebook 05 only)
 └── weights/                                the 3 saved models from notebook 12
 ```
