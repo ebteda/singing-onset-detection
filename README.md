@@ -2,8 +2,10 @@
 
 This project finds **where each sung note starts** (the onset) and **where it ends** (the offset) in a recording of a singing voice.
 
-It was my internship project, supervised by **Behnam Faghih**.
-Author: **Alimohammad (Ali) Rahmatpour**.
+It was my internship project.
+ 
+- **Internship supervisor:** [Behnam Faghih](https://www.maynoothuniversity.ie/people/behnam-faghih) (Maynooth University)
+- **Supervisor at Politecnico di Torino:** [Cristina Rottondi](https://www.linkedin.com/in/cristina-rottondi-b727042a2)
 
 ---
 
